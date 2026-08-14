@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hi 👋 I'm AYAZ<br><br>🎓 A Computer Science Student<br>💻 Interested in DSA, NLP, AI/ML, and Data Engineering<br>🚀 Building projects and exploring new technologies<br>🌱 Currently learning System Design and Databricks<br><br>*"Turning ideas into code, one project at a time."*<br>
+  Hi 👋 I'm AYAZ<br><br>🎓 A Computer Science Student<br>💻 Interested in DSA, NLP, AI/ML, and Data Science<br>🚀 Building projects and exploring new technologies<br>🌱 Currently learning System Design and Databricks<br><br>*"Turning ideas into code, one project at a time."*<br>
 
 
 ## 🌐 Socials:
